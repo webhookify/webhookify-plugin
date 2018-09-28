@@ -44,4 +44,4 @@ class Plugin {
 	}
 }
 
-export default Plugin;
+export Plugin;
