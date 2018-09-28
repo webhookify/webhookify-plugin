@@ -1,0 +1,23 @@
+{
+  "name": "webhookify-plugin",
+  "version": "1.0.0",
+  "description": "Abstract class to be extended by plugin implementations",
+  "main": "Plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jangxx/webhookify-plugin.git"
+  },
+  "keywords": [
+    "webhookify-plugin",
+    "webhookify"
+  ],
+  "author": "jangxx <jangxx@protonmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jangxx/webhookify-plugin/issues"
+  },
+  "homepage": "https://github.com/jangxx/webhookify-plugin#readme"
+}
