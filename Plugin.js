@@ -44,4 +44,4 @@ class Plugin {
 	}
 }
 
-export Plugin;
+module.exports = { Plugin };
