@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jangxx/webhookify-plugin.git"
+    "url": "git+https://github.com/webhookify/webhookify-plugin.git"
   },
   "keywords": [
     "webhookify-plugin",
@@ -17,7 +17,7 @@
   "author": "jangxx <jangxx@protonmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jangxx/webhookify-plugin/issues"
+    "url": "https://github.com/webhookify/webhookify-plugin/issues"
   },
-  "homepage": "https://github.com/jangxx/webhookify-plugin#readme"
+  "homepage": "https://www.webhookify.net"
 }
