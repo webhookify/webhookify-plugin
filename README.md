@@ -1,6 +1,7 @@
 # webhookify-plugin
 
 This module contains an abstract class, which webhookify plugins should extend to be compatible with the webhookify client.
+More information about developing your own plugins for the webhookify client can be found on the [wiki](https://github.com/webhookify/webhookify-client/wiki/Plugin-Development).
 
 ## Example
 
